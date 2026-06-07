@@ -1,5 +1,5 @@
 # Sentiment-Dataset
-AI-Generated Images Sentiment based on Twitter (X) as the primary source, YouTube and Reddit as supplementary
+Sentiment Analysis of AI-Generated Images Discourse using Social Media Data (X as the primary source, with YouTube and Reddit as supplementary sources)
 
 Five seeds include:
 42,
