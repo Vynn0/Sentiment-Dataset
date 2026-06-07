@@ -1,5 +1,5 @@
 # Sentiment-Dataset
-Sentiment Analysis of AI-Generated Images Discourse using Social Media Data (X as the primary source, with YouTube and Reddit as supplementary sources)
+Sentiment Dataset of AI-Generated Images Discourse using Social Media Data (X as the primary source, with YouTube and Reddit as supplementary sources)
 
 Five seeds include:
 42,
